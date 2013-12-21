@@ -1,0 +1,6 @@
+name: missu
+version: 1
+cron:
+- url: /miss_u_so_much/
+  schedule: "*/1 * * * *"
+
