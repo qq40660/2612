@@ -14,8 +14,8 @@ def login_qzone():
     data = {
             "qq":qq,
             "pmd5":pmd5,
-            "bid_code":"qzoneLogin",
-            "go_url":"http://m.qzone.com/profile?"
+            "bid_code":bid_code,
+            "go_url":go_url
         }
     headers = {
             'Host':'pt.3g.qq.com',
